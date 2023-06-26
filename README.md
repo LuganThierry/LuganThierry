@@ -1,5 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuganThierry)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <!--
 **LuganThierry/LuganThierry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
