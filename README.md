@@ -1,7 +1,10 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,matlab,sklearn,cs,dotnet,js,vue,vuetify,angular,html,css,vscode,postman,aws,github,sqlite,mysql)
 
 - 🔭 I’m working as a Software Development intern in the Innovation and Technology Department of a law firm.
-- 🌱 I’m learning Python, its frameworks and possibilities.
+- 🌱 I’m Software Engineering student, with also a solid Human Sciences background (specially, Law and Philosophy).
+- ⚡ I'm presently using Python for RPA; and Django, Flask and Vue.Js for web development.
+- 👯 I'm deepening my knowledges Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn for Data Science and Machine Learning.
+- 🤔 Currently, I'm getting to know more about Network Science using NetworkX
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lugan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lugan-thierry/)
 
 
