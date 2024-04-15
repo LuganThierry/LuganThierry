@@ -1,4 +1,4 @@
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,matlab,sklearn,regex,cs,dotnet,js,vue,vuetify,angular,html,css,sqlite,mysql,aws,vscode,postman,github,notion)
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,matlab,sklearn,regex,cs,dotnet,js,vue,vuetify,angular,html,css,sqlite,mysql,aws,vscode,postman,github,md,notion)
 
 - 🔭 I’m working as a Software Development intern in the Innovation and Technology Department of a law firm.
 - 🌱 I’m Software Engineering student, with also a solid Human Sciences background (specially, Law and Philosophy).
