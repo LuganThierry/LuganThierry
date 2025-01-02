@@ -1,4 +1,4 @@
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,matlab,sklearn,regex,cs,dotnet,js,vue,vuetify,angular,html,css,sqlite,mysql,aws,vscode,postman,github,md,notion)
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,matlab,sklearn,regex,elixir,cs,dotnet,js,vue,vuetify,angular,html,css,sqlite,mysql,aws,vscode,postman,github,md,notion)
 
 ## EN
 - 🔭 I’m working as a Software Developer in the Innovation and Technology Department of a law firm.
